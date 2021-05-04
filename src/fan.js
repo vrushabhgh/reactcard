@@ -15,7 +15,7 @@ export default function Card(props){
                 }
               
             </ul>
-            <a href="#" className="btn btn-block btn-primary text-uppercase">Button</a>
+            <a className="btn btn-block btn-primary text-uppercase">Button</a>
           </div>
         </div>
       </div>
